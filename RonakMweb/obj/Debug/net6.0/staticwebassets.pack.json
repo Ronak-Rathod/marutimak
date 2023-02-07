@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RonakMweb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RonakMweb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\Company Logo Psd.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Company Logo Psd.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\GROWTHLOGOWHITE-1 (1).png",
+      "PackagePath": "staticwebassets\\assets\\img\\GROWTHLOGOWHITE-1 (1).png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\GROWTHLOGOWHITE-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\GROWTHLOGOWHITE-1.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\apple-store.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-store.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\az305.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\az305.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\category\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon1.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\category\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon2.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\category\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon3.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\category\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon4.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\category\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\shape.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\cta\\cta-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\cta-shape.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\cta\\mail.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\mail.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\cta\\send.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\send.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\cta\\shape-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\shape-bg1.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\cta\\shape-bg2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\shape-bg2.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\dest\\dest1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\dest1.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\dest\\dest2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\dest2.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\dest\\dest3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\dest3.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\dest\\navigation.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\navigation.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\dest\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\shape.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\dp_trans.png",
+      "PackagePath": "staticwebassets\\assets\\img\\dp_trans.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\facebook.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\hero\\hero-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-bg.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\hero\\hero-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-img.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\hero\\play.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\play.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\hero\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\shape.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\icons\\down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\down.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\icons\\up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\up.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\img\\linkedin.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\logo2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo2.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\partner\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\1.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\partner\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\2.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\partner\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\3.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\partner\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\4.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\partner\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\5.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\play-store.png",
+      "PackagePath": "staticwebassets\\assets\\img\\play-store.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\bg.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\booking-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\booking-img.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\building.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\building.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\favorite-placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\favorite-placeholder.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\heart.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\heart.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\leaf.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\leaf.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\map.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\map.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\selection.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\selection.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\send.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\send.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\taxi.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\taxi.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\steps\\water-sport.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\water-sport.svg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\testimonial\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\author.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\testimonial\\author2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\author2.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\testimonial\\author3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\author3.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\twitter.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\img\\youtube.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\js\\bootstrap-navbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-navbar.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\video\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\video\\.gitkeep"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\video\\beach.jpg",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\video\\beach.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.mp4"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\video\\beach.webm",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.webm"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\header.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\images\\pic01.jpg",
+      "PackagePath": "staticwebassets\\images\\pic01.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\vendors\\@popperjs\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\@popperjs\\popper.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\vendors\\is\\is.min.js",
+      "PackagePath": "staticwebassets\\vendors\\is\\is.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RonakMweb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RonakMweb.props",
+      "PackagePath": "build\\RonakMweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RonakMweb.props",
+      "PackagePath": "buildMultiTargeting\\RonakMweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RonakMweb.props",
+      "PackagePath": "buildTransitive\\RonakMweb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
