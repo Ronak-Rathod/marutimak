@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets\\assets\\css\\theme.min.css.map"
     },
     {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\AZ-104.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\AZ-104.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\AZ-203.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\AZ-203.jpg"
+    },
+    {
       "Id": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\Company Logo Psd.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Company Logo Psd.jpg"
     },

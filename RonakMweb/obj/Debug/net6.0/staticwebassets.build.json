@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N1ELM80WVQU81Tsy9XSlLjTAS/ODa+dozzVuHIUcgxI=",
+  "Hash": "4TeSqBXmvr0i9kjlAw/+GH3GQeFznJkA5BxrdXyyQ/U=",
   "Source": "RonakMweb",
   "BasePath": "_content/RonakMweb",
   "Mode": "Default",
@@ -202,6 +202,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-store.png"
+    },
+    {
+      "Identity": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\AZ-104.jpg",
+      "SourceId": "RonakMweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\",
+      "BasePath": "_content/RonakMweb",
+      "RelativePath": "assets/img/AZ-104.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\AZ-104.jpg"
+    },
+    {
+      "Identity": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\AZ-203.jpg",
+      "SourceId": "RonakMweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\",
+      "BasePath": "_content/RonakMweb",
+      "RelativePath": "assets/img/AZ-203.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\AZ-203.jpg"
     },
     {
       "Identity": "D:\\C# Projects\\RonakMweb\\RonakMweb\\wwwroot\\assets\\img\\az305.jpg",
